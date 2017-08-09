@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					0743192F1F3B14EF0030CE53 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = N9X9U9A52W;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -272,9 +273,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N9X9U9A52W;
 				INFOPLIST_FILE = PublishIPA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.PublishIPA;
+				PRODUCT_BUNDLE_IDENTIFIER = com.motobandtest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -283,9 +285,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N9X9U9A52W;
 				INFOPLIST_FILE = PublishIPA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.PublishIPA;
+				PRODUCT_BUNDLE_IDENTIFIER = com.motobandtest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
